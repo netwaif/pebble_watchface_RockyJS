@@ -1,0 +1,28 @@
+{
+    "author": "netwaif@gmail.com",
+    "dependencies": {},
+    "keywords": [],
+    "name": "netwaif_v1",
+    "pebble": {
+        "capabilities": [
+            "configurable"
+        ],
+        "displayName": "netwaif_v1",
+        "enableMultiJS": true,
+        "messageKeys": [],
+        "projectType": "rocky",
+        "resources": {
+            "media": []
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "chalk"
+        ],
+        "uuid": "5d69485f-dd36-43e7-a246-71eb84b970f8",
+        "watchapp": {
+            "hiddenApp": true,
+            "watchface": true
+        }
+    },
+    "version": "1.0.0"
+}
