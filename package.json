@@ -14,7 +14,7 @@
         "resources": {
             "media": []
         },
-        "sdkVersion": "4",
+        "sdkVersion": "3",
         "targetPlatforms": [
             "chalk"
         ],
